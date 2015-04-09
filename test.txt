@@ -1,3 +1,6 @@
+new 
+lines
+test
 some new changes in branch testing
 testing branch
 test.txt
